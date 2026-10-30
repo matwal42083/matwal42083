@@ -1,25 +1,27 @@
-   <div>
-     <h1>Matthew (Matwal) Walton</h1>
-     <h2>Bio</h2>
-     <p>I'm Matthew Walton, a full-stack developer from Springfield, MO. I started learning Web development <br>
-     and fullstack development in 2022 and I've been learning since then. I code in HTML, CSS, JavaScript, and React.JS <br>
-     and would like to learn more about React.Js. Also, I want to learn TypeScript, angular, and more.</p>
-   </div>
-   <div>
-     <h3>education</h3>
-     <img src="https://github.com/user-attachments/assets/e295a304-8ae2-4be1-aba1-c57467a0fb47" alt="FullstackAcademyLogoNoBG 2024-06-11 153518">  <img src="https://github.com/user-attachments/assets/371ef298-4d73-43d6-9fcf-7c8dabe41304" alt="freeCodeCamp2LogoNoBG"><img src="https://github.com/user-attachments/assets/58b9c638-4e80-436f-8452-e41b30469e0f" alt="SoloLearnLogoNoBG 2024-06-11 152848"><img src="https://github.com/user-attachments/assets/b0b2a8d8-2a5c-4fb2-ab6e-2767f6d9c1a9" alt="codecademyLogo 2024-09-03 164835"><br><br>
-     <p>I attended Fullstack Academy online and participated on platforms like<strong><em> Sololearn, freeCodeCamp, and Codecademy</em></strong><br>
-      I've also read a lot of documents like MDN, JS info, and Google Developer. I've pretty much taught myself how to code <br>
-      in all three languages <strong><em>HTML, CSS, JavaScript</em></strong>
-      </p>
-   </div>
-   <br>
-   <div>
-     <a href="https://app.daily.dev/matwal42083"><img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="250" heigth="300px" alt="matwal42083"/></a>
-    </div>
+# Hi, I'm Matthew Walton (Matwal) 👋
 
+**Web developer from Springfield, MO** building with HTML, CSS, JavaScript, and React.
 
+I started learning web development in 2022 and now focus on AI-assisted full-stack development. I'm exploring TypeScript, Angular, and back-end technologies such as Java, SQL, Python, and ASP.NET.
 
-   
+## Antivibe Coding
 
+A structured workflow for building with agentic AI, so the plan comes before the code. A planning conversation becomes seven build artifacts (overview, walkthrough, implementation plan, file structure, state and flow diagrams, code diff, and task list) that guide the work in the IDE.
 
+## Tech Stack
+
+**Current:** HTML · CSS · JavaScript · React
+
+**Currently expanding into:** TypeScript · Angular · Java · SQL · Python · ASP.NET
+
+## Featured Projects
+
+- [Calorie Counter](https://github.com/matwal42083/OctoCat_Calorie_Counter): tracks meals and exercise and totals daily calories (HTML, CSS, JavaScript).
+- [Dragon Fight RPG](https://github.com/matwal42083/Dragon_fight_RPG): a JavaScript RPG built along with freeCodeCamp.
+- [Portfolio](https://github.com/matwal42083/matthew-walton-portfolio): my projects in one place.
+
+## Learning
+
+Fullstack Academy, freeCodeCamp, Codecademy, Sololearn, and documentation such as MDN.
+
+[CodePen](https://codepen.io/Matthew-matwal-Walton) · [daily.dev](https://app.daily.dev/matwal42083)
