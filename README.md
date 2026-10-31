@@ -25,3 +25,7 @@ A structured workflow for building with agentic AI, so the plan comes before the
 Fullstack Academy, freeCodeCamp, Codecademy, Sololearn, and documentation such as MDN.
 
 [CodePen](https://codepen.io/Matthew-matwal-Walton) · [daily.dev](https://app.daily.dev/matwal42083)
+
+<a href="https://app.daily.dev/matwal42083">
+  <img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="250" alt="Matthew's daily.dev card" />
+</a>
